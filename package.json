@@ -1,0 +1,16 @@
+{
+  "name": "workspacestudynode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cliente.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "install": "^0.13.0",
+    "net": "^1.0.2"
+  }
+}
